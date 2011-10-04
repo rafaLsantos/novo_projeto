@@ -2,7 +2,7 @@ public class TesteGit{
 
     public static void main(Stirng[] args){
 	System.out.println("Hello git...");
-	System.out.println("boa boa nada...");
+	System.out.println("boa boa coisa nenhuma...");
 	System.out.println("mais uma alteracao...")
     }
 
