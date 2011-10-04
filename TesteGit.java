@@ -5,4 +5,8 @@ public class TesteGit{
 	System.out.println("boa boa...");
 	System.out.println("mais uma alteracao...")
     }
+
+    public void testNewMethod(String msg){
+        System.out.print(msg);
+    }
 }
